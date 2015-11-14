@@ -1,22 +1,22 @@
 ## Variable Descriptions
 
 **1. activity (CHARACTER).** *Describes the six possible activities in the study:*
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+WALKING, 
+WALKING_UPSTAIRS, 
+WALKING_DOWNSTAIRS, 
+SITTING, 
+STANDING, 
+LAYING, 
 
 **2. Subject_no (INTEGER).** *A numeric code for the subject*
 
-**3. activity_cd (INTEGER).** *Numeric code for the six activities. The codes are:*
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+**3. activity_cd (INTEGER).** *Numeric code for the six activities. The codes are:*  
+1 WALKING  
+2 WALKING_UPSTAIRS  
+3 WALKING_DOWNSTAIRS  
+4 SITTING  
+5 STANDING  
+6 LAYING  
 
 ## Features Descriptions
 
